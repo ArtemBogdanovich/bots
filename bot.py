@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import time
 
-bot = telebot.TeleBot("7545470998:AAEaQf8zJGyXyyiRY82Upat2TET9XUOjfTU")
+bot = telebot.TeleBot("---")
 
 
 @bot.message_handler(commands=["start"])
